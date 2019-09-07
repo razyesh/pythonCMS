@@ -7,3 +7,5 @@ python -m http.server --cgi
 <h2>open the browser and go to the URL</h2>
 localhost:8000/admin
 
+<h2>You may need to create "pythoncms" database</h2>
+
