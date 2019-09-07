@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
-import cgitb
-import cgi
-from bottle import route
-import webbrowser
+
+import cgi, cgitb
 from db import mydb
 from jinja2 import Environment, FileSystemLoader
 import db
